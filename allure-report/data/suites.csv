@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","144","Should sent POST request and return 401","Test goals on clickup","Wed Jun 11 09:41:27 EEST 2025","passed","Wed Jun 11 09:41:28 EEST 2025","","","",""
+"","2293","Should sent GET_TASKS request and return 200","Test goals on clickup","Wed Jun 11 09:41:25 EEST 2025","passed","Wed Jun 11 09:41:27 EEST 2025","","","",""
+"","2002","Should sent PUT request and return 200","Test goals on clickup","Wed Jun 11 09:41:20 EEST 2025","passed","Wed Jun 11 09:41:22 EEST 2025","","","",""
+"","903","Should sent Get_Tasks_simple request and return 200","Test goals on clickup","Wed Jun 11 09:41:18 EEST 2025","passed","Wed Jun 11 09:41:19 EEST 2025","","","",""
+"","2974","Should sent POST request and return 200","Test goals on clickup","Wed Jun 11 09:41:22 EEST 2025","passed","Wed Jun 11 09:41:25 EEST 2025","","","",""
+"","1726","Should sent POST request without the correct list_id and return 400","Test goals on clickup","Wed Jun 11 09:41:28 EEST 2025","passed","Wed Jun 11 09:41:30 EEST 2025","","","",""
+"","293","Should sent POST request without body and return 400","Test goals on clickup","Wed Jun 11 09:41:28 EEST 2025","passed","Wed Jun 11 09:41:28 EEST 2025","","","",""
